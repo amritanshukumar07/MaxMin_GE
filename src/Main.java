@@ -16,6 +16,6 @@ public class Main {
         System.out.println("Welcome to MIN-MAX Program");
         System.out.println("Max integer 1st :" + findMax(9,6,3));
         System.out.println("Max float 2nd :" + findMax(6.2,9.5,3.6));
-        System.out.println("Max in 3rd :" + findMax(3,6,9));
+        System.out.println("Max String 3rd :" + findMax("guava","tea","zineapple"));
     }
 }
